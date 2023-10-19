@@ -1,3 +1,13 @@
+# 편식
+
+<img width=30% src="https://github.com/imsongj/Picky/assets/60054843/4b7c88a3-82ba-4513-a554-d195a7a0bf11">
+
+## 팀 노션
+https://www.notion.so/flowerdonk/492f78733bc640828b035dc6f5775c57?pvs=4
+## 개인 노션
+https://www.notion.so/f1a05999dffb4bf880dbfa7dd0953c94?pvs=4
+---
+
 ## 📌 프로젝트 소개
 
 ### ✔️ 주제
@@ -19,83 +29,29 @@
 
 2023.08.28 - 2023.10.06
 
-### ✔️ 사용 기술 스택
+### Backend
+- IntelliJ IDEA Ultimate
+- Java: 11 (Zulu 11.0.2)
+- Gradle: 8.2.1
+- Python 3.11.4
+- PIP 23.2.1
+- Spring Boot 2.7.15
+- Apache Spark 3.4.1
 
-### B/E
-
-<aside>
-<img src="https://spring.io/img/projects/spring-boot.svg" alt="https://spring.io/img/projects/spring-boot.svg" width="40px" />
-
-</aside>
-
-<aside>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="40px" />
-
-
-</aside>
-
-<aside>
-<img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/gradle_logo_icon_145224.png" alt="https://cdn.icon-icons.com/icons2/2389/PNG/512/gradle_logo_icon_145224.png" width="40px" />
-
-</aside>
-
-<aside>
-<img src="https://www.svgrepo.com/show/452091/python.svg" alt="https://www.svgrepo.com/show/452091/python.svg" width="40px" />
-
-</aside>
-
-<aside>
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" alt="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" width="40px" />
-
-</aside>
-
-### F/E
-
-<aside>
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-flutter-2038877-1720090.png" alt="https://cdn.iconscout.com/icon/free/png-256/free-flutter-2038877-1720090.png" width="40px" />
-
-</aside>
+### Frontend
+- Android Studio
+- Flutter 3.13.3
 
 ### Storage
+- MySQL 8.0.3
+- Kafka 3.1.2
+- Redis
 
-<aside>
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" width="40px" /> 
-
-</aside>
-
-<aside>
-<img src="https://assets.stickpng.com/images/584830b5cef1014c0b5e4a9c.png" alt="https://assets.stickpng.com/images/584830b5cef1014c0b5e4a9c.png" width="40px" />
-
-</aside>
-
-<aside>
-<img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/apache_kafka_icon_138937.png" alt="https://cdn.icon-icons.com/icons2/2248/PNG/512/apache_kafka_icon_138937.png" width="40px" /> 
-
-</aside>
-
-### Dev-Ops
-
-<aside>
-<img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="40px" />
-
-</aside>
-
-### Infra
-
-<aside>
-<img src="https://static-00.iconduck.com/assets.00/aws-ec2-icon-423x512-iaajemnx.png" alt="https://static-00.iconduck.com/assets.00/aws-ec2-icon-423x512-iaajemnx.png" width="40px" />
-
-</aside>
-
-<aside>
-<img src="https://static.invertase.io/assets/social/firebase-logo.png" alt="https://static.invertase.io/assets/social/firebase-logo.png" width="40px" />
-
-</aside>
-
-<aside>
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_zookeeper_logo_icon_169571.png" alt="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_zookeeper_logo_icon_169571.png" width="40px" /> 
-
-</aside>
+### Dev-Ops / Infra
+- Docker
+- AWS EC2
+- FCM(Firebase Cloud Messaging)
+- ZooKeeper 3.6.4
 
 ### Collaboration
 
@@ -121,17 +77,9 @@
 
 </aside>
 
-### Data Processing / Crawling
-
-<aside>
-<img src="/uploads/01e7725db48b967e32642201e4bdbce0/icons8-pandas-48.png" width="50" height="50"/>
-<img src="/uploads/36c868e419ba5b163a77ae74490b4f98/icons8-selenium-100.png" width="60" height="60"/>
-
-</aside>
-
 ### ✔️ 발표 자료
 
-[ppt]
+[최종 발표 PPT](https://github.com/KimKiheon/Picky/blob/master/exec/%ED%8A%B9%ED%99%94PJT_%EC%84%9C%EC%9A%B8_5%EB%B0%98_A505_%EC%A0%84%EC%9E%84%EC%86%A1.pptx)
 
 [편식합시다. - YouTube](https://www.youtube.com/watch?v=EsqhW0yHhcQ)
 
@@ -183,11 +131,11 @@ N+1 문제를 해결해도 8초 이상 걸렸다. 검색 쿼리를 계속해서 
 
 ### ✔️ 시스템 아키텍처
 
-<img width=50% src="/uploads/8968f73393b91769976382e76c548a6c/편식_아키텍처.png">
+<img width=50% src="https://github.com/imsongj/Picky/assets/60054843/e8fb9111-1e2d-4179-a369-bc12be12ac12">
 
 ### ✔️ ER-Diagram
 
-<img width=50% src="/uploads/e5aa3467013f139a3b8d7e3468a510f5/erd.png">
+<img width=50% src="https://github.com/imsongj/Picky/assets/60054843/e5711efb-1aa4-46e1-9bf0-b1d0f1fe321d">
 
 
 ---
@@ -206,22 +154,22 @@ N+1 문제를 해결해도 8초 이상 걸렸다. 검색 쿼리를 계속해서 
 
 
 <h2>홈페이지<h2>
-<img width=10% src="/uploads/ada84a3d580e42f93369cf4b26826ea9/homepage.gif">
+<img width=20% src="https://github.com/imsongj/Picky/assets/60054843/4b7c88a3-82ba-4513-a554-d195a7a0bf11">
 
 <h2>검색 페이지<h2>
-<img width=10% src="/uploads/d82312ae9ec18a137338db03b0c82708/search.gif">
+<img width=20% src="https://github.com/imsongj/Picky/assets/60054843/05f9bae6-db1d-4c2c-adae-cbe1f5e23351">
 
 <h2>상품목록 페이지<h2>
-<img width=10% src="/uploads/41bd6c16a5ef4ff45163c2410ab4e05d/filtered_list.gif">
+<img width=20% src="https://github.com/imsongj/Picky/assets/60054843/32ecffc1-72fb-47aa-91c6-179f55812ebe">
 
 <h2>상세보기 페이지<h2>
-<img width=10% src="/uploads/d9369bf6ddff57eb442d7c5df2a72c2b/product_detail.gif">
+<img width=20% src="https://github.com/imsongj/Picky/assets/60054843/7d552d75-c289-497a-bfa0-3f241ab8c92c">
 
 <h2>상품조합 페이지<h2>
-<img width=10% src="/uploads/62ad486612fbe4bbb47b52b8312a5b6a/combination.gif">
+<img width=20% src="https://github.com/imsongj/Picky/assets/60054843/69dd7710-32d5-4992-9baf-78ac4dcb5683">
 
 <h2>로그인 페이지<h2>
-<img width=10% src="/uploads/b0342b0dd66d86b130bd0a7d4b29343f/login.gif">
+<img width=20% src="https://github.com/imsongj/Picky/assets/60054843/c25d221c-b7d7-4832-9ecc-b2c371d5bf43">
 
-<h2>스크랩 페이지<h2>
-<img width=10% src="/uploads/f302da74c9f6611f657a9b0387817b10/scrapbook.gif">
+<h2>스크랩북 페이지<h2>
+<img width=20% src="https://github.com/imsongj/Picky/assets/60054843/82934804-ccd8-4bad-b909-0c16108bed10">
