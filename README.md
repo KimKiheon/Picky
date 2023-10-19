@@ -3,9 +3,13 @@
 <img width=30% src="https://github.com/imsongj/Picky/assets/60054843/4b7c88a3-82ba-4513-a554-d195a7a0bf11">
 
 ## 팀 노션
+
 https://www.notion.so/flowerdonk/492f78733bc640828b035dc6f5775c57?pvs=4
+
 ## 개인 노션
+
 https://www.notion.so/f1a05999dffb4bf880dbfa7dd0953c94?pvs=4
+
 ---
 
 ## 📌 프로젝트 소개
